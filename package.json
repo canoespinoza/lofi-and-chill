@@ -1,7 +1,7 @@
 {
   "name": "lofi-and-chill",
   "version": "0.1.0",
-  "description": "lofi playlist and anime gif generator",
+  "description": "lofi music and anime gif generator",
   "main": "server/index.js",
   "scripts": {
     "start": "node server"
@@ -11,7 +11,9 @@
     "body-parser": "^1.19.0",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
-    "morgan": "^1.9.1"
+    "jquery": "^3.4.1",
+    "morgan": "^1.9.1",
+    "sass": "^1.24.0"
   },
   "repository": {
     "type": "git",
